@@ -1,2 +1,0 @@
-# gamekhunglong
-game
